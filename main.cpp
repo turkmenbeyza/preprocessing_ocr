@@ -5,7 +5,7 @@
 using namespace cv;
 using namespace std;
 
-
+/*Turkmen Beyza, 010622*/
 int main(int argc, char** argv)
 {
     string root_outp_path = "C:\\Users\\turkm\\source\\repos\\\preprocessing_ocr\\output_images\\";
